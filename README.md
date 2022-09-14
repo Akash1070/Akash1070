@@ -1,5 +1,5 @@
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=radical)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=dark)
 
 
 # Hi, I'm Akash! 👋
