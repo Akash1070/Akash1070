@@ -1,5 +1,5 @@
 
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070)](https://github.com/anuraghazra/github-readme-stats)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=radical)
 
 
 # Hi, I'm Akash! 👋
