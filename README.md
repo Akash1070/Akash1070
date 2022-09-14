@@ -1,12 +1,9 @@
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact)](https://github.com/Akash1070/github-readme-stats)
-
-[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Akash1070)](https://github.com/Akash1070/github-readme-stats)
-
 # Hi, I'm Akash! 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact)](https://github.com/Akash1070/github-readme-stats)
 
 ## 🚀 About Me
 Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data 
