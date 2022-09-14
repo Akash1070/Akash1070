@@ -1,6 +1,11 @@
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=dark)
-
+<a href="https://github.com/Akash1070/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1070&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Akash1070/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1070&repo=convoychat" />
+</a>
 
 # Hi, I'm Akash! 👋
 
