@@ -51,9 +51,8 @@ My current skills are (but not limited to) :
 > Data analytics,
 > Visualization,
 > Python development,
-> Automation,
 > Web design,
-> Blogging (technical)
+> Blogging
 
 
 ## Future Plans 
