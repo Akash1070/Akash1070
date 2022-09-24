@@ -6,7 +6,7 @@ Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data science.
 
-Like many others, my initial interest lay in web development, and I still continue to design websites for personal use. But for a student whose favorite subject continues to be Mathematics, I realized my passion upon switching to Data analytics. 
+Like many others, my initial interest lay in web development, and I still continue to design websites for personal use. But for a student whose favorite subject continues to be Mathematics, I realized my passion upon switching to Data Scientist. 
 Data Science has been my major point of interest for a year now, and my zest lies majorly in Machine Learning. I find ease coding in Python, but I never limit myself to learning Python just for Data science.
 
 
