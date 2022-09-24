@@ -1,7 +1,17 @@
 
+# Hi, I'm Akash! 👋
+
+## 🚀 About Me
+Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data
+
+Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data science.
+
+Like many others, my initial interest lay in web development, and I still continue to design websites for personal use. But for a student whose favorite subject continues to be Mathematics, I realized my passion upon switching to Data analytics. 
+Data Science has been my major point of interest for a year now, and my zest lies majorly in Machine Learning. I find ease coding in Python, but I never limit myself to learning Python just for Data science.
+
+
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=dark)
 
-# Hi, I'm Akash! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact)](https://github.com/Akash1070/github-readme-stats)
 
@@ -32,10 +42,19 @@ Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using
 
 
 # 🛠 Skills
-1. Data Scientist
-2. Data Analyst
-3. Business Analyst
-4. Machine Learning 
+My current skills are (but not limited to) :
+
+> Data Scientist, 
+> Machine Learning,
+> NLP,
+> Computer Vision
+> Data analytics,
+> Visualization,
+> Python development,
+> Automation,
+> Web design,
+> Blogging (technical)
+
 
 ## Future Plans 
 ⚡️ Looking forward to help drive innovations into your company as a Data Scientist / Data Analyst
