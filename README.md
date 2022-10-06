@@ -2,7 +2,7 @@
 # Hi, I'm Akash! 👋
 
 ## 🚀 About Me
-Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data
+Data Scientist Enthusiast | Full Stack Developer |  Petroleum Engineer Graduate | Solving Problems Using Data
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data science.
 
@@ -10,10 +10,10 @@ Like many others, my initial interest lay in web development, and I still contin
 Data Science has been my major point of interest for a year now, and my zest lies majorly in Machine Learning. I find ease coding in Python, but I never limit myself to learning Python just for Data science.
 
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=dark)
+![Akash's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=radical))
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact)](https://github.com/Akash1070/github-readme-stats)
+[![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&langs_count=8)](https://github.com/Akash1070/github-readme-stats))
 
 ## 🚀 About Me
 Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data 
