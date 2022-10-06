@@ -13,7 +13,7 @@ Data Science has been my major point of interest for a year now, and my zest lie
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact)](https://github.com/Akash1070/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact&langs_count=10)](https://github.com/Akash1070/github-readme-stats)
 
 ## 🚀 About Me
 Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data 
