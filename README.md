@@ -20,7 +20,7 @@ Data Science has been my major point of interest for a year now, and my zest lie
 <p><img style="zoom:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1070&" alt="Akash1070" /  width=90% height=202 hide_border=true></p></details>
 
 ## 🚀 About Me
-Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data 
+Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data | Full Stack Developer
 
 
 ## 🔗 Links
@@ -48,19 +48,20 @@ Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using
 # 🛠 Skills
 My current skills are (but not limited to) :
 
-> Data Scientist, 
-> Machine Learning,
-> NLP,
+> Data Scientist
+>Full Stack Developer
+> Machine Learning
+> NLP
 > Computer Vision
-> Data analytics,
-> Visualization,
-> Python development,
-> Web design,
+> Data analytics
+> Visualization
+> Python development
+> Web design
 > Blogging
 
 
 ## Future Plans 
-⚡️ Looking forward to help drive innovations into your company as a Data Scientist / Data Analyst
+⚡️ Looking forward to help drive innovations into your company as a Data Scientist / Data Analyst / Full Stack Developer
 
 ⚡️ Looking forward to offer more than I take and leave the place better than i found
 
