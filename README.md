@@ -109,7 +109,7 @@ Worked with teams and protocols across fintech, trading, gaming, and Web3 infras
 
 <div align="center">
 
-**BNC (Bank Neo Commerce)** · **GRX** · **ONESSUS** · **SEI.fun** · **GameGPT** · **SQL Trading**
+**BNC** · **GRX** · **ONESSUS** · **SEI.fun** · **GameGPT** · **SKL Trading**
 
 </div>
 
