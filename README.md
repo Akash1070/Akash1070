@@ -46,6 +46,30 @@ I publish long-form research and actionable insights on Web3 products, crypto ma
 - Fundraising readiness for Web3 startups  
 
 ---
+## 📬 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact-7F3BF7?style=for-the-badge)](mailto:8093akash@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akash_kumar107)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourweb3guys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumar107/)
+
+</div>
+
+---
+
+## 🏢 Clients & Ecosystem Exposure
+
+Worked with teams and protocols across fintech, trading, gaming, and Web3 infrastructure.
+
+<div align="center">
+
+**BNC** · **GRX** · **ONESSUS** · **SEI.fun** · **GameGPT** · **SKL Trading**
+
+</div>
+
+---
 
 ## 📄 Past Work & Case Studies
 
@@ -62,15 +86,6 @@ Solidity · Ethers.js · Web3.js · Hardhat · IPFS · OpenZeppelin · The Graph
 
 ### 💻 Web2
 React · Next.js · Node.js · TypeScript · GraphQL · MongoDB · AWS  
-
----
-
-## 🚀 Featured Builds
-
-| Project | Description | Stack |
-|------|------------|------|
-| **Pump.fun-style Launchpad** | Memecoin launchpad with token creation, bonding curves, and on-chain trading | Solidity, React, IPFS |
-| **Stake.com-style Platform** | Web3 betting & staking system with wallet auth and modular game logic | TypeScript, GraphQL, React |
 
 ---
 
@@ -91,11 +106,6 @@ Telegram-based crypto trading bot
 - Solana & EVM support  
 - Custom trading infrastructure  
 
-### Aitv.gg  
-AI-powered livestreaming platform  
-- Custom AI agents  
-- Creator tooling & execution flows  
-
 ### Roll Protocol  
 Memecoin creation & trading on **EVM & Form Chain**  
 - Token creation pipelines  
@@ -103,17 +113,6 @@ Memecoin creation & trading on **EVM & Form Chain**
 
 ---
 
-## 🏢 Clients & Ecosystem Exposure
-
-Worked with teams and protocols across fintech, trading, gaming, and Web3 infrastructure.
-
-<div align="center">
-
-**BNC** · **GRX** · **ONESSUS** · **SEI.fun** · **GameGPT** · **SKL Trading**
-
-</div>
-
----
 
 ## 📊 Proof of Work
 
@@ -122,28 +121,6 @@ Worked with teams and protocols across fintech, trading, gaming, and Web3 infras
 <img src="https://img.shields.io/badge/🚀_Projects_Delivered-17+-7F3BF7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🤝_Worked_With-53+_Startups-00D9FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/😊_Happy_Clients-12+-FFD700?style=for-the-badge" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact&theme=midnight-purple&hide_border=true" />
-</div>
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact-7F3BF7?style=for-the-badge)](mailto:8093akash@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akash_kumar107)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourweb3guys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumar107/)
 
 </div>
 
