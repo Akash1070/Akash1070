@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-unfoldogic.com-7F3BF7?style=for-the-badge)](https://unfoldogic.com)
+[![Website](https://img.shields.io/badge/Website-unfoldlogic.com-7F3BF7?style=for-the-badge)](https://unfoldlogic.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourweb3guys)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumar107/)
 
