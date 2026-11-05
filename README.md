@@ -60,6 +60,16 @@
 
 <img align="right" width="310" src="https://api.dicebear.com/9.x/identicon/svg?seed=AkashKumarJha&backgroundColor=0b2e14" alt="Akash Kumar Jha portrait illustration"/>
 
+```text
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   ██ ▄▄▄ █▄▄ ██▄▄▄█ ▄▄▄█ ▄▄▄ ▄▄▄█ ▄▄▄▄▄█ ▄▄▄ ▄▄▄ ██
+   ██ █▄█ █ █ ██▄▄▄█ █▄▄ █▄▄ █▄█ █ █▄▄▄▄▄█ █▄▄ █▄█ ██
+   ██ ▄▄▄ █ █ ██▄▄▄█ ▄▄▄█ ▄▄▄ █▄█ █ █▄▄▄▄▄█ ▄▄▄ █▄█ ██
+   ██ █▄█ █▄█ ██▄▄▄█ █▄▄ █▄▄ █▄█ █▄█▄▄▄▄▄█ █▄▄ █▄█ ██
+   ██ ▄▄▄ █▄▄ ██▄▄▄█ ▄▄▄█ ▄▄▄ █▄█ █ ▄▄▄▄▄█ ▄▄▄ █▄█ ██
+   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
 I'm a **Web3 product builder, founder, and technical consultant** who takes decentralized products from idea → architecture → production — shipping real, production-grade blockchain products rather than demos.
 
 As founder of **Unfold Logic**, I work with early-stage and growth-stage Web3 teams across **token infrastructure, fundraising, launchpads, auditing coordination, trading systems, dApp development, and go-to-market**. If it touches a chain and has to survive real users, that's my playground.
@@ -245,6 +255,18 @@ Token creation pipelines, trading mechanics, and frontend integration on **EVM &
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
 <!-- PROOF OF WORK -->
+
+<div align="center">
+
+<h3>GITHUB PULSE</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&count_private=true&hide_title=true&theme=radical&bg_color=0A0505&title_color=34D399&icon_color=34D399&text_color=D1FAE5&border_color=14532D" alt="Akash's GitHub stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1070&background=0A0505&stroke=34D399&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=9CA3AF&dates=9CA3AF&border=14532D" alt="Akash's GitHub streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact&hide_title=true&theme=radical&bg_color=0A0505&title_color=34D399&text_color=D1FAE5&border_color=14532D" alt="Akash's most used languages" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akash1070&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=12&margin-h=12&title-color=34D399&text-color=9CA3AF" alt="Akash's GitHub trophies" width="48%" />
+
+</div>
 
 <div align="center">
 
