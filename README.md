@@ -1,30 +1,157 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7F3BF7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Akash;Web3+%26+Web2+Product+Builder;Founder+at+Unfold+Logic;Building+Production-Ready+Web3+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=400&size=44&duration=2200&pause=700&color=DC2626&center=true&vCenter=true&width=920&height=90&lines=HI,+I'M+AKASH+KUMAR+JHA;WEB3+PRODUCT+BUILDER+%C2%B7+FOUNDER+%40+UNFOLD+LOGIC" alt="Hi, I'm Akash Kumar Jha — Web3 product builder & founder"/>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-unfoldlogic.com-7F3BF7?style=for-the-badge)](https://unfoldlogic.blog)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourweb3guys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumar107/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=14000&pause=2000&color=9CA3AF&center=true&vCenter=true&width=820&height=30&lines=TOKEN+INFRA+%C2%B7+FUNDRAISING+%C2%B7+LAUNCHPADS+%C2%B7+AUDITS+%C2%B7+TRADING+SYSTEMS+%C2%B7+dAPPS+%C2%B7+MARKETING" alt="Token infra · fundraising · launchpads · audits · trading systems · dApps · marketing"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akash1070&color=7F3BF7&style=for-the-badge)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:0a0505,50:dc2626,100:0a0505" alt="" width="100%"/>
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/WEBSITE-unfoldlogic.blog-DC2626?style=for-the-badge&labelColor=1c0a0a&logo=google-chrome&logoColor=ffffff)](https://unfoldlogic.blog)
+[![RaiseEquity](https://img.shields.io/badge/RAISEEQUITY-raisequity.com-00D9FF?style=for-the-badge&labelColor=1c0a0a&logo=graphql&logoColor=ffffff)](https://raisequity.com)
+[![HireInCrypto](https://img.shields.io/badge/HIREINCRYPTO-hireincrypto.com-FF6B35?style=for-the-badge&labelColor=1c0a0a&logo=linkedin&logoColor=ffffff)](https://hireincrypto.com)
+[![Blog](https://img.shields.io/badge/YOURWEB3GUY-yourweb3guy.com-FFFFFF?style=for-the-badge&labelColor=1c0a0a&logo=medium&logoColor=dc2626)](https://yourweb3guy.com)
+[![X](https://img.shields.io/badge/X-FOLLOW-1DA1F2?style=for-the-badge&labelColor=1c0a0a&logo=x&logoColor=ffffff)](https://x.com/yourweb3guys)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=1c0a0a&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akashkumar107/)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CHAT-26A5E4?style=for-the-badge&labelColor=1c0a0a&logo=telegram&logoColor=ffffff)](https://t.me/Akash_kumar107)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Akash1070&color=DC2626&style=flat-square&label=PROFILE+VIEWS)
+
+<img src="https://img.shields.io/badge/Projects_Delivered-17%2B-DC2626?style=for-the-badge&labelColor=0a0505" alt="17+ projects delivered" />
+<img src="https://img.shields.io/badge/Startups_Worked_With-53%2B-00D9FF?style=for-the-badge&labelColor=0a0505" alt="53+ startups worked with" />
+<img src="https://img.shields.io/badge/Happy_Clients-12%2B-FFD700?style=for-the-badge&labelColor=0a0505" alt="12+ happy clients" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:0a0505,50:dc2626,100:0a0505" alt="" width="100%"/>
+
+<div>&nbsp;</div>
+
+```text
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   ██ ▄▄▄ █▄▄ ██▄▄▄█ ▄▄▄█ ▄▄▄ ▄▄▄█ ▄▄▄▄▄█ ▄▄▄ ▄▄▄ ██
+   ██ █▄█ █ █ ██▄▄▄█ █▄▄ █▄▄ █▄█ █ █▄▄▄▄▄█ █▄▄ █▄█ ██
+   ██ ▄▄▄ █ █ ██▄▄▄█ ▄▄▄█ ▄▄▄ █▄█ █ █▄▄▄▄▄█ ▄▄▄ █▄█ ██
+   ██ █▄█ █▄█ ██▄▄▄█ █▄▄ █▄▄ █▄█ █▄█▄▄▄▄▄█ █▄▄ █▄█ ██
+   ██ ▄▄▄ █▄▄ ██▄▄▄█ ▄▄▄█ ▄▄▄ █▄█ █ ▄▄▄▄▄█ ▄▄▄ █▄█ ██
+   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+<div>&nbsp;</div>
+
+# 💀 DEADPOOL MODE: Web3 Product Builder
+
+Max effort. Zero nonsense. I'm a **Web3 product builder, founder, and technical consultant** who takes decentralized products from idea → architecture → production — and I don't ship demos, I ship products.
+
+As founder of **Unfold Logic**, I work with early-stage and growth-stage Web3 teams across **token infrastructure, fundraising, launchpads, auditing coordination, trading systems, dApp development, and go-to-market**. If it touches a chain and has to survive real users, that's my playground.
+
+---
+
+## 🗡️ My Companies & Products
+
+| Product / Venture | What it is | Link |
+|---|---|---|
+| **Unfold Logic** | Web3 product studio & technical consultancy | [unfoldlogic.blog](https://unfoldlogic.blog) |
+| **RaiseEquity** | Web3 fundraising & investor matchmaking platform | [raisequity.com](https://raisequity.com) |
+| **Hire in Crypto** | Web3 hiring & talent community | [hireincrypto.com](https://hireincrypto.com) |
+| **YourWeb3Guy** | Long-form research, writing & Web3 insights | [yourweb3guy.com](https://yourweb3guy.com) |
+
+---
+
+## ⚔️ What I Do
+
+| Focus Area | What I actually build |
+|---|---|
+| **Token Infrastructure** | Token launches, economics, vesting, launchpad flows, listing coordination |
+| **Web3 Fundraising** | Raise strategies, investor matchmaking, pitch material, pipeline ops |
+| **dApp Development** | Solana, EVM & app-chain dApps — frontend to smart-contract integration |
+| **Trading Systems** | Telegram/terminal trading bots, order flows, Solana + EVM support |
+| **Auditing Support** | Pre-launch security reviews, contract vetting, audit coordination |
+| **Growth / GTM** | Marketing, PR, community & go-to-market for on-chain products |
+
+---
+
+## 🔥 Flagship Projects I've Built & Worked On
+
+### Sei.fun — Memecoin Creation & Trading on SEI
+Token launch & trading flows, chain-optimized UX, and infrastructure support for a production memecoin platform on **SEI Chain**.
+
+### Raise.social — Crypto Crowdfunding on Solana
+Wallet-based donations with on-chain transparency and tracking for a Solana crowdfunding platform.
+
+### Thunder Trade — Telegram Crypto Trading Bot
+Custom trading infrastructure with **Solana & EVM** support, built for speed and reliability.
+
+### Roll Protocol — Memecoin Creation on EVM & Form Chain
+Token creation pipelines, trading mechanics, and frontend integration on **EVM & Form Chain**.
+
+---
+
+## 🏢 Clients & Ecosystem Exposure
+
+Worked with teams and protocols across **fintech, trading, gaming, and Web3 infrastructure**:
+
+<div align="center">
+
+**BNC** · **GRX** · **ONESSUS** · **SEI.fun** · **GameGPT** · **SKL Trading** — and **50+ more startups**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 📄 Case Studies & Work Deck
 
-I’m a **Web3 Product Builder & Technical Consultant** focused on shipping **real, production-grade blockchain products**.
+A curated deck covering products, platforms, and Web3 systems I've built or contributed to.
 
-Founder of **Unfold Logic**, where I work closely with early-stage and growth-stage Web3 teams to design, build, and scale decentralized products.
+<div align="center">
 
-I also operate:
-- **RaiseEquity** – Web3 fundraising & investor matchmaking
-- **Hire in Crypto** – Web3 hiring & talent community
+[![⌘ ENTER THE WORK DECK ↗](https://img.shields.io/badge/%E2%8C%98_ENTER_THE_WORK_DECK_%E2%86%97-dc2626?style=for-the-badge&labelColor=1c0a0a&color=dc2626)](https://acrobat.adobe.com/id/urn:aaid:sc:AP:9d49692c-5a8c-412d-81b1-3e1184704bf2)
 
-My work spans **token infrastructure, Fundraising, launchpads Listing, Auditing, PR, trading systems, Web3 dApp Development, Marketing, and on-chain products**.
+</div>
+
+---
+
+## 🛠️ Arsenal & Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center"><h3>🔗 WEB3</h3></div>
+
+[![Solidity](https://img.shields.io/badge/SOLIDITY-1c0a0a?style=for-the-badge&logo=solidity&logoColor=dc2626)](https://soliditylang.org/)
+[![Ethers.js](https://img.shields.io/badge/ETHERS.JS-1c0a0a?style=for-the-badge&logo=ethereum&logoColor=dc2626)](https://docs.ethers.org/)
+[![Web3.js](https://img.shields.io/badge/WEB3.JS-1c0a0a?style=for-the-badge&logo=ethereum&logoColor=dc2626)](https://web3js.org/)
+[![Hardhat](https://img.shields.io/badge/HARDHAT-1c0a0a?style=for-the-badge&logo=hardhat&logoColor=dc2626)](https://hardhat.org/)
+[![OpenZeppelin](https://img.shields.io/badge/OPENZEPPELIN-1c0a0a?style=for-the-badge&logo=openzeppelin&logoColor=dc2626)](https://www.openzeppelin.com/)
+[![IPFS](https://img.shields.io/badge/IPFS-1c0a0a?style=for-the-badge&logo=ipfs&logoColor=dc2626)](https://ipfs.tech/)
+[![The Graph](https://img.shields.io/badge/THE_GRAPH-1c0a0a?style=for-the-badge&logo=thegraph&logoColor=dc2626)](https://thegraph.com/)
+[![Solana](https://img.shields.io/badge/SOLANA-1c0a0a?style=for-the-badge&logo=solana&logoColor=dc2626)](https://solana.com/)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center"><h3>💻 WEB2</h3></div>
+
+[![React](https://img.shields.io/badge/REACT-1c0a0a?style=for-the-badge&logo=react&logoColor=dc2626)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/NEXT.JS-1c0a0a?style=for-the-badge&logo=nextdotjs&logoColor=dc2626)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/NODE.JS-1c0a0a?style=for-the-badge&logo=nodedotjs&logoColor=dc2626)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TYPESCRIPT-1c0a0a?style=for-the-badge&logo=typescript&logoColor=dc2626)](https://www.typescriptlang.org/)
+[![GraphQL](https://img.shields.io/badge/GRAPHQL-1c0a0a?style=for-the-badge&logo=graphql&logoColor=dc2626)](https://graphql.org/)
+[![MongoDB](https://img.shields.io/badge/MONGODB-1c0a0a?style=for-the-badge&logo=mongodb&logoColor=dc2626)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-1c0a0a?style=for-the-badge&logo=postgresql&logoColor=dc2626)](https://www.postgresql.org/)
+[![AWS](https://img.shields.io/badge/AWS-1c0a0a?style=for-the-badge&logo=amazonwebservices&logoColor=dc2626)](https://aws.amazon.com/)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📚 Research, Writing & Insights
 
@@ -32,100 +159,49 @@ I publish long-form research and actionable insights on Web3 products, crypto ma
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Personal_Blog-Read-000000?style=for-the-badge&logo=medium)](https://yourweb3guy.com/)
-[![Medium](https://img.shields.io/badge/Medium-Your_Web3_Guy-000000?style=for-the-badge&logo=medium)](https://medium.com/@yourweb3guy)
-[![Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://yourweb3guy.substack.com)
+[![Blog](https://img.shields.io/badge/PERSONAL_BLOG-READ-000000?style=for-the-badge&labelColor=1c0a0a&logo=medium&logoColor=dc2626)](https://yourweb3guy.com/)
+[![Medium](https://img.shields.io/badge/MEDIUM-YOUR_WEB3_GUY-000000?style=for-the-badge&labelColor=1c0a0a&logo=medium&logoColor=dc2626)](https://medium.com/@yourweb3guy)
+[![Substack](https://img.shields.io/badge/SUBSTACK-SUBSCRIBE-FF6719?style=for-the-badge&labelColor=1c0a0a&logo=substack&logoColor=ffffff)](https://yourweb3guy.substack.com)
 
 </div>
 
-**Topics**
-- Web3 product & protocol design  
-- Blockchain architecture deep dives  
-- Crypto market research  
-- dApp UX & frontend engineering  
-- Fundraising readiness for Web3 startups  
+**Topics I write about:** Web3 product & protocol design · blockchain architecture deep dives · crypto market research · dApp UX & frontend engineering · fundraising readiness for Web3 startups.
 
 ---
-## 📬 Connect
+
+## ❓ FAQ
+
+**What kind of projects do you take on?**
+Production Web3 products: token launches, dApps, trading infrastructure, fundraising platforms, and security/audit coordination. I work with founders from architecture through launch.
+
+**Do you work with early-stage teams?**
+Yes — most of my work is with early-stage and growth-stage Web3 teams that need a builder who can ship, plus the ecosystem connections to grow.
+
+**Can you help with token launch and fundraising?**
+Yes. That's a core part of Unfold Logic: launchpad flows, investor matchmaking (via RaiseEquity), and go-to-market.
+
+**Where can I read your research?**
+On [yourweb3guy.com](https://yourweb3guy.com), [Medium](https://medium.com/@yourweb3guy), and [Substack](https://yourweb3guy.substack.com).
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-7F3BF7?style=for-the-badge)](mailto:8093akash@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akash_kumar107)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourweb3guys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumar107/)
-
-</div>
-
----
-
-## 🏢 Clients & Ecosystem Exposure
-
-Worked with teams and protocols across fintech, trading, gaming, and Web3 infrastructure.
-
-<div align="center">
-
-**BNC** · **GRX** · **ONESSUS** · **SEI.fun** · **GameGPT** · **SKL Trading**
-
-</div>
-
----
-
-## 📄 Past Work & Case Studies
-
-A curated deck covering products, platforms, and Web3 systems I’ve built or contributed to.
-
-👉 **[View Detailed Work Deck (PDF)](https://acrobat.adobe.com/id/urn:aaid:sc:AP:9d49692c-5a8c-412d-81b1-3e1184704bf2)**
-
----
-
-## 🛠️ Tech Stack
-
-### 🔗 Web3
-Solidity · Ethers.js · Web3.js · Hardhat · IPFS · OpenZeppelin · The Graph  
-
-### 💻 Web2
-React · Next.js · Node.js · TypeScript · GraphQL · MongoDB · AWS  
-
----
-
-## 🧩 Projects Built & Worked With
-
-### Sei.fun  
-Memecoin creation and trading platform on **SEI Chain**  
-- Token launch & trading flows  
-- Chain-optimized UX & infra support  
-
-### Raise.social  
-Crypto crowdfunding platform on **Solana**  
-- Wallet-based donations  
-- On-chain transparency & tracking  
-
-### Thunder Trade  
-Telegram-based crypto trading bot  
-- Solana & EVM support  
-- Custom trading infrastructure  
-
-### Roll Protocol  
-Memecoin creation & trading on **EVM & Form Chain**  
-- Token creation pipelines  
-- Trading mechanics & frontend integration  
-
----
-
-
-## 📊 Proof of Work
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🚀_Projects_Delivered-17+-7F3BF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤝_Worked_With-53+_Startups-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/😊_Happy_Clients-12+-FFD700?style=for-the-badge" />
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-DC2626?style=for-the-badge&labelColor=1c0a0a)](mailto:8093akash@gmail.com)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CHAT-26A5E4?style=for-the-badge&labelColor=1c0a0a&logo=telegram&logoColor=ffffff)](https://t.me/Akash_kumar107)
+[![X](https://img.shields.io/badge/X-FOLLOW-1DA1F2?style=for-the-badge&labelColor=1c0a0a&logo=x&logoColor=ffffff)](https://x.com/yourweb3guys)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=1c0a0a&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akashkumar107/)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let’s%20Build%20Real%20Web3%20Products&fontSize=26&fontColor=ffffff" />
+
+*"Maximum effort. It's not just a slogan — it's the standard."*
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Build%20Real%20Web3%20Products&fontSize=26&fontColor=ffffff" alt="Footer banner — Let's build real Web3 products" />
