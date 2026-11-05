@@ -251,7 +251,7 @@ Token creation pipelines, trading mechanics, and frontend integration on **EVM &
 <h3>GITHUB PULSE</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&count_private=true&hide_title=true&theme=radical&bg_color=0A0505&title_color=34D399&icon_color=34D399&text_color=D1FAE5&border_color=14532D" alt="Akash's GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1070&background=0A0505&stroke=34D399&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=9CA3AF&dates=9CA3AF&border=14532D" alt="Akash's GitHub streak" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Akash1070&background=0A0505&stroke=34D399&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=9CA3AF&dates=9CA3AF&border=14532D" alt="Akash's GitHub streak" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact&hide_title=true&theme=radical&bg_color=0A0505&title_color=34D399&text_color=D1FAE5&border_color=14532D" alt="Akash's most used languages" width="48%" />
 <img src="https://github-profile-trophy.vercel.app/?username=Akash1070&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=12&margin-h=12&title-color=34D399&text-color=9CA3AF" alt="Akash's GitHub trophies" width="48%" />
