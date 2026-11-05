@@ -35,39 +35,44 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<a href="https://unfoldlogic.blog">
-  <img src="https://placehold.co/1000x110/052e16/34d399?text=%E2%8C%98+ENTER+THE+DOMAIN+%E2%86%97&font=orbitron" alt="Akash Kumar Jha — enter the domain" width="100%"/>
-</a>
-
-<br/>
-
-[![⌘ ENTER THE DOMAIN ↗](https://img.shields.io/badge/%E2%8C%98_ENTER_THE_DOMAIN_%E2%86%97-052e16?style=for-the-badge&labelColor=166534&color=052e16)](https://unfoldlogic.blog)
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=12&pause=15000&color=d1fae5&center=true&vCenter=true&width=1000&height=28&lines=Token+Infrastructure+%C2%B7+Fundraising+%C2%B7+Launchpads+%C2%B7+Audits+%C2%B7+Trading+Systems+%C2%B7+dApps+%C2%B7+Marketing" alt="Token infrastructure · fundraising · launchpads · audits · trading systems · dApps · marketing"/>
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020a04,50:15803d,100:020a04" alt="" width="100%"/>
 
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/Akash1070/Akash1070/main/assets/avatar.png" alt="Akash Kumar Jha"/>
 
-I'm a **Web3 product builder, founder, and technical consultant** who takes decentralized products from idea → architecture → production — shipping real, production-grade blockchain products rather than demos.
+### Hi, I'm Akash! 👋
 
-As founder of **Unfold Logic**, I work with early-stage and growth-stage Web3 teams across **token infrastructure, fundraising, launchpads, auditing coordination, trading systems, dApp development, and go-to-market**. If it touches a chain and has to survive real users, that's my playground.
+I'm a **Web2 + Web3 product builder, founder, and technical consultant** taking decentralized protocols and applications from idea → architecture → production — shipping real, production-grade products that people actually need rather than throwaway demos.
+
+As founder of **[Unfold Logic](https://unfoldlogic.blog)**, I work with early-stage and high-growth Web3 teams across **token infrastructure, fundraising architecture, launchpads, auditing coordination, and high-performance trading systems**. If it touches a chain and has to survive real users and capital, that's my playground.
 
 I also operate:
-- **RaiseEquity** – Web3 fundraising & investor matchmaking
-- **Hire in Crypto** – Web3 hiring & talent community
-- **YourWeb3Guy** – long-form research & insights
+- **[RaiseEquity](https://raisequity.com)** — Web3 fundraising & investor matchmaking network connecting founders with active crypto VCs and angel syndicates.
+- **[Hire in Crypto](https://hireincrypto.com)** — Web3 talent community & recruiting network for high-velocity blockchain ecosystems.
+- **[YourWeb3Guy](https://yourweb3guy.com)** — In-depth research, tokenomic breakdowns, and market insights on [Substack](https://akashkumarjha.substack.com/).
+
+Over the last 4+ years, I've shipped **17+ production dApps**, worked with **53+ startups** across EVM, Solana, and SEI (including **[Sei.fun](https://sei.fun)**, **BNC**, **GRX**, **ONESSUS**, **GameGPT**, and **SKL Trading**), and helped multiple founders navigate 7-figure token and equity raises.
+
+<br clear="right"/>
+<div>&nbsp;</div>
+
+<!-- COLLABORATION NOTICE CARD -->
+<div align="center">
+
+<a href="https://t.me/Akash_kumar107">
+  <img src="https://raw.githubusercontent.com/Akash1070/Akash1070/main/assets/collaboration-notice.png" width="580" alt="Open to Web3 advisory & product collaborations" />
+</a>
+
+<br/>
+
+[![Chat on Telegram](https://img.shields.io/badge/Telegram-Chat_with_Akash-0b2e14?style=for-the-badge&logo=telegram&logoColor=34d399)](https://t.me/Akash_kumar107)
+&nbsp;
+[![Email Akash](https://img.shields.io/badge/Email-8093akash%40gmail.com-0b2e14?style=for-the-badge&logo=gmail&logoColor=34d399)](mailto:8093akash@gmail.com)
+&nbsp;
+[![Unfold Logic Advisory](https://img.shields.io/badge/Advisory-Unfold_Logic_%E2%86%97-15803d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://unfoldlogic.blog)
+
+</div>
 
 <div>&nbsp;</div>
 
