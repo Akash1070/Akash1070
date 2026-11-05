@@ -58,7 +58,7 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-<img align="right" width="310" src="https://api.dicebear.com/9.x/identicon/svg?seed=AkashKumarJha&backgroundColor=0b2e14" alt="Akash Kumar Jha portrait placeholder — replace with a real photo at ./photos/profile.png"/>
+<img align="right" width="310" src="https://api.dicebear.com/9.x/identicon/svg?seed=AkashKumarJha&backgroundColor=0b2e14" alt="Akash Kumar Jha portrait illustration"/>
 
 I'm a **Web3 product builder, founder, and technical consultant** who takes decentralized products from idea → architecture → production — shipping real, production-grade blockchain products rather than demos.
 
