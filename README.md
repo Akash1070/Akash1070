@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=400&size=44&duration=2200&pause=700&color=DC2626&center=true&vCenter=true&width=920&height=90&lines=HI,+I'M+AKASH+KUMAR+JHA;WEB3+PRODUCT+BUILDER+%C2%B7+FOUNDER+%40+UNFOLD+LOGIC" alt="Hi, I'm Akash Kumar Jha — Web3 product builder & founder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=400&size=40&duration=2200&pause=700&color=DC2626&center=true&vCenter=true&width=880&height=80&lines=HI,+I'M+AKASH+KUMAR+JHA;WEB3+PRODUCT+BUILDER+%C2%B7+FOUNDER+%40+UNFOLD+LOGIC" alt="Hi, I'm Akash Kumar Jha — Web3 product builder & founder"/>
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=14000&pause=2000&color=9CA3AF&center=true&vCenter=true&width=820&height=30&lines=TOKEN+INFRA+%C2%B7+FUNDRAISING+%C2%B7+LAUNCHPADS+%C2%B7+AUDITS+%C2%B7+TRADING+SYSTEMS+%C2%B7+dAPPS+%C2%B7+MARKETING" alt="Token infra · fundraising · launchpads · audits · trading systems · dApps · marketing"/>
+
+**Currently building:** decentralized fundraising infrastructure + multi-chain launchpad tooling · open to collabs on serious Web3 products.
 
 </div>
 
@@ -21,10 +23,6 @@
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CHAT-26A5E4?style=for-the-badge&labelColor=1c0a0a&logo=telegram&logoColor=ffffff)](https://t.me/Akash_kumar107)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akash1070&color=DC2626&style=flat-square&label=PROFILE+VIEWS)
-
-<img src="https://img.shields.io/badge/Projects_Delivered-17%2B-DC2626?style=for-the-badge&labelColor=0a0505" alt="17+ projects delivered" />
-<img src="https://img.shields.io/badge/Startups_Worked_With-53%2B-00D9FF?style=for-the-badge&labelColor=0a0505" alt="53+ startups worked with" />
-<img src="https://img.shields.io/badge/Happy_Clients-12%2B-FFD700?style=for-the-badge&labelColor=0a0505" alt="12+ happy clients" />
 
 </div>
 
@@ -52,6 +50,24 @@ As founder of **Unfold Logic**, I work with early-stage and growth-stage Web3 te
 
 ---
 
+## 📊 GitHub Pulse
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akash1070&show_icons=true&count_private=true&hide_title=true&theme=radical&bg_color=0A0505&title_color=DC2626&icon_color=DC2626&text_color=B9B9B9&border_color=1C0A0A" alt="Akash's GitHub stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1070&background=0A0505&stroke=DC2626&ring=DC2626&fire=E11D48&currStreakLabel=DC2626&sideLabels=9CA3AF&dates=9CA3AF&border=1C0A0A" alt="Akash's GitHub streak" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1070&layout=compact&hide_title=true&theme=radical&bg_color=0A0505&title_color=DC2626&text_color=B9B9B9&border_color=1C0A0A" alt="Akash's most used languages" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akash1070&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=12&margin-h=12&title-color=DC2626&text-color=9CA3AF" alt="Akash's GitHub trophies" width="48%" />
+
+</div>
+
+---
+
 ## 🗡️ My Companies & Products
 
 | Product / Venture | What it is | Link |
@@ -60,6 +76,22 @@ As founder of **Unfold Logic**, I work with early-stage and growth-stage Web3 te
 | **RaiseEquity** | Web3 fundraising & investor matchmaking platform | [raisequity.com](https://raisequity.com) |
 | **Hire in Crypto** | Web3 hiring & talent community | [hireincrypto.com](https://hireincrypto.com) |
 | **YourWeb3Guy** | Long-form research, writing & Web3 insights | [yourweb3guy.com](https://yourweb3guy.com) |
+
+---
+
+## 🖼️ Product Banners
+
+> Swappable placeholders — drop in real screenshots by replacing the image URLs below.
+
+<div align="center">
+
+<a href="https://unfoldlogic.blog"><img src="https://placehold.co/560x200/1c0a0a/dc2626?text=UNFOLD+LOGIC&font=playfair-display" alt="Unfold Logic — Web3 product studio" width="47%" /></a>
+<a href="https://raisequity.com"><img src="https://placehold.co/560x200/062a30/00d9ff?text=RAISEEQUITY&font=playfair-display" alt="RaiseEquity — Web3 fundraising & investor matchmaking" width="47%" /></a>
+
+<a href="https://hireincrypto.com"><img src="https://placehold.co/560x200/221004/ff6b35?text=HIRE+IN+CRYPTO&font=playfair-display" alt="Hire in Crypto — Web3 hiring & talent community" width="47%" /></a>
+<a href="https://yourweb3guy.com"><img src="https://placehold.co/560x200/0a0a0a/eeeeee?text=YOURWEB3GUY&font=playfair-display" alt="YourWeb3Guy — long-form Web3 research" width="47%" /></a>
+
+</div>
 
 ---
 
