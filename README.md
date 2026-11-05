@@ -193,11 +193,27 @@ I publish long-form research and actionable insights on Web3 products, crypto ma
 
 [![Blog](https://img.shields.io/badge/PERSONAL_BLOG-READ-000000?style=for-the-badge&labelColor=1c0a0a&logo=medium&logoColor=dc2626)](https://yourweb3guy.com/)
 [![Medium](https://img.shields.io/badge/MEDIUM-YOUR_WEB3_GUY-000000?style=for-the-badge&labelColor=1c0a0a&logo=medium&logoColor=dc2626)](https://medium.com/@yourweb3guy)
-[![Substack](https://img.shields.io/badge/SUBSTACK-SUBSCRIBE-FF6719?style=for-the-badge&labelColor=1c0a0a&logo=substack&logoColor=ffffff)](https://yourweb3guy.substack.com)
+[![Substack](https://img.shields.io/badge/SUBSTACK-SUBSCRIBE-FF6719?style=for-the-badge&labelColor=1c0a0a&logo=substack&logoColor=ffffff)](https://akashkumarjha.substack.com/)
 
 </div>
 
 **Topics I write about:** Web3 product & protocol design · blockchain architecture deep dives · crypto market research · dApp UX & frontend engineering · fundraising readiness for Web3 startups.
+
+---
+
+## ✍️ Latest from the Blog
+
+Top posts from [Your Web3 Guy on Substack](https://akashkumarjha.substack.com/) — 5,000+ subscribers.
+
+| # | Post | Link |
+|---|---|---|
+| 1 | The $250k Web3 job no one is talking about (and 35 others) | [Read →](https://akashkumarjha.substack.com/p/the-250k-web3-job-no-one-is-talking) |
+| 2 | Everything I Know About Fundraising in Web3 | [Read →](https://akashkumarjha.substack.com/p/everything-i-know-about-fundraising) |
+| 3 | Get into $400 Billions Opportunity before anyone else in Web3 | [Read →](https://akashkumarjha.substack.com/p/get-into-400-billions-opprtunity) |
+| 4 | 27 Web3 Jobs You Can Actually Apply to Right Now | [Read →](https://akashkumarjha.substack.com/p/27-web3-jobs-you-can-actually-apply) |
+| 5 | How Crime Coins Are The Most Profitable Crime System Ever Built in Web3 | [Read →](https://akashkumarjha.substack.com/p/how-crime-coins-are-the-most-profitable) |
+
+> This list is kept fresh manually — swap the rows whenever you publish. Want it fully automatic? I can wire a GitHub Action that pulls `api/v1/posts` on every push and rewrites this table.
 
 ---
 
@@ -213,7 +229,7 @@ Yes — most of my work is with early-stage and growth-stage Web3 teams that nee
 Yes. That's a core part of Unfold Logic: launchpad flows, investor matchmaking (via RaiseEquity), and go-to-market.
 
 **Where can I read your research?**
-On [yourweb3guy.com](https://yourweb3guy.com), [Medium](https://medium.com/@yourweb3guy), and [Substack](https://yourweb3guy.substack.com).
+On [yourweb3guy.com](https://yourweb3guy.com), [Medium](https://medium.com/@yourweb3guy), and [Substack](https://akashkumarjha.substack.com/).
 
 ---
 
