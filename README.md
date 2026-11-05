@@ -60,16 +60,6 @@
 
 <img align="right" width="310" src="https://api.dicebear.com/9.x/identicon/svg?seed=AkashKumarJha&backgroundColor=0b2e14" alt="Akash Kumar Jha portrait illustration"/>
 
-```text
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-   ██ ▄▄▄ █▄▄ ██▄▄▄█ ▄▄▄█ ▄▄▄ ▄▄▄█ ▄▄▄▄▄█ ▄▄▄ ▄▄▄ ██
-   ██ █▄█ █ █ ██▄▄▄█ █▄▄ █▄▄ █▄█ █ █▄▄▄▄▄█ █▄▄ █▄█ ██
-   ██ ▄▄▄ █ █ ██▄▄▄█ ▄▄▄█ ▄▄▄ █▄█ █ █▄▄▄▄▄█ ▄▄▄ █▄█ ██
-   ██ █▄█ █▄█ ██▄▄▄█ █▄▄ █▄▄ █▄█ █▄█▄▄▄▄▄█ █▄▄ █▄█ ██
-   ██ ▄▄▄ █▄▄ ██▄▄▄█ ▄▄▄█ ▄▄▄ █▄█ █ ▄▄▄▄▄█ ▄▄▄ █▄█ ██
-   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
 I'm a **Web3 product builder, founder, and technical consultant** who takes decentralized products from idea → architecture → production — shipping real, production-grade blockchain products rather than demos.
 
 As founder of **Unfold Logic**, I work with early-stage and growth-stage Web3 teams across **token infrastructure, fundraising, launchpads, auditing coordination, trading systems, dApp development, and go-to-market**. If it touches a chain and has to survive real users, that's my playground.
